@@ -1,0 +1,14 @@
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\bin\Release\net7.0\Shippies.exe
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\bin\Release\net7.0\Shippies.deps.json
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\bin\Release\net7.0\Shippies.runtimeconfig.json
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\bin\Release\net7.0\Shippies.dll
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\bin\Release\net7.0\Shippies.pdb
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.AssemblyInfoInputs.cache
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.AssemblyInfo.cs
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.csproj.CoreCompileInputs.cache
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.dll
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\refint\Shippies.dll
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.pdb
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\Shippies.genruntimeconfig.cache
+C:\Users\velne\Dropbox\VS repos\Shippies\Shippies\obj\Release\net7.0\ref\Shippies.dll

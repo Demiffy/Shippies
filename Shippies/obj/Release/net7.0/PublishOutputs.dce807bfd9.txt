@@ -1,0 +1,5 @@
+C:\Users\velne\Dropbox\Apps\Shippies\Shippies.exe
+C:\Users\velne\Dropbox\Apps\Shippies\Shippies.dll
+C:\Users\velne\Dropbox\Apps\Shippies\Shippies.deps.json
+C:\Users\velne\Dropbox\Apps\Shippies\Shippies.runtimeconfig.json
+C:\Users\velne\Dropbox\Apps\Shippies\Shippies.pdb

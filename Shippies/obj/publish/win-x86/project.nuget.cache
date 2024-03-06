@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BtEgdqb5OKnQBkndHXVeS3MB65QU13IqRcOeEWHHsh6EVgEkJGoMwJZRSgr16s5CbZ1vwf98zg9ZYBzDOKrMVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\velne\\Dropbox\\VS repos\\Shippies\\Shippies\\Shippies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\velne\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\velne\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\velne\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.14\\microsoft.netcore.app.runtime.win-x86.7.0.14.nupkg.sha512",
+    "C:\\Users\\velne\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.14.nupkg.sha512",
+    "C:\\Users\\velne\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.14\\microsoft.aspnetcore.app.runtime.win-x86.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
